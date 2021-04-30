@@ -28,7 +28,7 @@ selenium==2.53.6
 service-identity==16.0.0
 six==1.10.0
 tldextract==2.0.1
-Twisted==16.2.0
+Twisted==20.3.0
 w3lib==1.14.2
 zope.interface==4.2.0
 slacker==0.9.29
